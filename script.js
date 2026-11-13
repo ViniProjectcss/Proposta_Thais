@@ -13,7 +13,7 @@ const CONFIG = {
     setupDe: 5000,  setupPor: 2000,   // Etapa 1
     siteDe:  6000,  sitePor:  2000,   // Etapa 2
     mensal1: 1000,                    // mensalidade com o sistema
-    mensal2De: 1800, mensal2Por: 1300, // mensalidade com o site
+    mensal2De: 1800, mensal2Por: 1400, // mensalidade com o site
 
     // Composição da mensalidade de R$ 1.000
     servidor: 50,        // Hostinger
